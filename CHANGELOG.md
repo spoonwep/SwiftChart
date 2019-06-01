@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.2]
+
+### bump a new version
+
 ## [v1.0.0](https://github.com/gpbl/SwiftChart/releases/tag/1.0.0) - 2018-01-07
 
 ### Added
